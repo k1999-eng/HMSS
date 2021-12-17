@@ -13,6 +13,10 @@ namespace HOSPITALMANAGEMENTSYSTEM.Controllers
         {
             return View();
         }
+         public ActionResult AddPatient()
+        {
+            return View();
+        }
         
         public ActionResult AdminHome()
         {
